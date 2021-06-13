@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Aman 👨‍💻
+</h1>
 
-<!--
-**apanjwani0/apanjwani0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  Computer Science Undergraduate at IIIT Jabalpur.
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="https://www.linkedin.com/in/apanjwani0/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=apanjwani0&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align="right">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=apanjwani0.apanjwani0)
+</p>
