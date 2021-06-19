@@ -20,7 +20,12 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=apanjwani0&show_icons=true&count_private=true&theme=dark" width="500" alt="apanjwani0">
   </a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apanjwani0" alt="apanjwani0" />
 </p>
+
+<!-- <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apanjwani0" alt="apanjwani0" />
+</p> -->
 
 <!-- <p align="left">
   <a href="https://www.buymeacoffee.com/apanjwani0" target="_blank">
