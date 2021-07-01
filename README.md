@@ -4,7 +4,14 @@
 
 <p align='left'>
   I'm Aman, a Computer Science Undergraduate at IIIT Jabalpur.
+  <p>
+<!--     <sub>
+      Checkout my personal favourite project -: <a href="https://github.com/apanjwani0/Scrape-Instagram"><b>Scrape-Instagram</b></a>
+    </sub>  -->
+    Checkout my personal favourite project -: <a href="https://github.com/apanjwani0/Scrape-Instagram"><b>Scrape-Instagram</b></a>
+  </p>
 </p>
+  
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/apanjwani0/">
