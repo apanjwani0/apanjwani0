@@ -24,11 +24,17 @@
 <br />
 
 <p align='center'>
-  <div class="column" >
-    <img src="https://github-readme-stats.vercel.app/api?username=apanjwani0&show_icons=true&count_private=true&theme=dark" width="500" alt="apanjwani0">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apanjwani0&hide_border=true" alt="apanjwani0" />
-    <img align-"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanjwani0&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515" alt="Aman Panjwani's Top Languages"/>
-    </div>
+  <table align='center' cellspacing="0" cellpadding="0">
+    <tr align='center'>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=apanjwani0&show_icons=true&count_private=true&theme=dark" width="500" alt="apanjwani0"></td>
+    </tr>
+    <tr align='center'>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apanjwani0&hide_border=true" alt="apanjwani0" /></td>
+      </tr>
+    <tr align='center'>
+    <td><img align-"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanjwani0&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515" alt="Aman Panjwani's Top Languages"/></td>
+    </tr>
+    </table>
 </p>
 
 <!-- <p>
@@ -46,3 +52,9 @@
     <img src="https://komarev.com/ghpvc/?username=apanjwani0&label=Profile+Visitors" />
   </a>&nbsp;&nbsp;
 </p>
+
+<style>
+.tab {border-collapse:collapse;}
+.tab .first {border-bottom:1px solid #EEE;}
+.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+</style>
