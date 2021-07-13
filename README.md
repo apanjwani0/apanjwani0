@@ -52,9 +52,3 @@
     <img src="https://komarev.com/ghpvc/?username=apanjwani0&label=Profile+Visitors" />
   </a>&nbsp;&nbsp;
 </p>
-
-<style>
-.tab {border-collapse:collapse;}
-.tab .first {border-bottom:1px solid #EEE;}
-.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
-</style>
