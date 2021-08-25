@@ -32,7 +32,7 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apanjwani0&hide_border=true" alt="apanjwani0" /></td>
       </tr>
     <tr align='center'>
-    <td><img align-"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanjwani0&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515" alt="Aman Panjwani's Top Languages"/></td>
+    <td><img align-"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanjwani0&hide=scss&langs_count=6&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515" alt="Aman Panjwani's Top Languages"/></td>
     </tr>
     </table>
 </p>
