@@ -13,8 +13,9 @@ Backend • Distributed Systems • Scalability
 
 ---
 
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=apanjwani0&layout=compact&theme=github_dark)](https://github.com/apanjwani0/github-stats-card)
-
+  Curious about: 
+  - When will LLMs start improving itself and at what cost, at what rate ?
+  
 ---
 
 
